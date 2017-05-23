@@ -2442,7 +2442,7 @@ fieldset[disabled] .btn-default.active {
 .btn-primary {
   color: #ffffff;
   background-color: #7e4f91;
-  border-color: #0079a1; }
+  border-color: #613d70; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active {
     color: #ffffff;
     background-color: #006687;
@@ -2461,43 +2461,43 @@ fieldset[disabled] .btn-default.active {
 
 .btn-primary.disabled, .btn-primary[disabled] {
   background-color: #7e4f91;
-  border-color: #0079a1; }
+  border-color: #613d70; }
 
 fieldset[disabled] .btn-primary {
   background-color: #7e4f91;
-  border-color: #0079a1; }
+  border-color: #613d70; }
 
 .btn-primary.disabled:hover, .btn-primary[disabled]:hover {
   background-color: #7e4f91;
-  border-color: #0079a1; }
+  border-color: #613d70; }
 
 fieldset[disabled] .btn-primary:hover {
   background-color: #7e4f91;
-  border-color: #0079a1; }
+  border-color: #613d70; }
 
 .btn-primary.disabled:focus, .btn-primary[disabled]:focus {
   background-color: #7e4f91;
-  border-color: #0079a1; }
+  border-color: #613d70; }
 
 fieldset[disabled] .btn-primary:focus {
   background-color: #7e4f91;
-  border-color: #0079a1; }
+  border-color: #613d70; }
 
 .btn-primary.disabled:active, .btn-primary[disabled]:active {
   background-color: #7e4f91;
-  border-color: #0079a1; }
+  border-color: #613d70; }
 
 fieldset[disabled] .btn-primary:active {
   background-color: #7e4f91;
-  border-color: #0079a1; }
+  border-color: #613d70; }
 
 .btn-primary.disabled.active, .btn-primary[disabled].active {
   background-color: #7e4f91;
-  border-color: #0079a1; }
+  border-color: #613d70; }
 
 fieldset[disabled] .btn-primary.active {
   background-color: #7e4f91;
-  border-color: #0079a1; }
+  border-color: #613d70; }
 
 .btn-primary .badge {
   color: #7e4f91;
@@ -5382,7 +5382,7 @@ button.close {
       background-color: #d3d3d3; }
 .btn-group .dropdown-toggle.btn-primary ~ .dropdown-menu {
   background-color: #7e4f91;
-  border-color: #0079a1; }
+  border-color: #613d70; }
   .btn-group .dropdown-toggle.btn-primary ~ .dropdown-menu > li > a {
     color: #ffffff; }
     .btn-group .dropdown-toggle.btn-primary ~ .dropdown-menu > li > a:hover {
