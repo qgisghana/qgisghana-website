@@ -1,6 +1,6 @@
 # Site settings
 title: Swifter
-description: A clean minimal Theme for Jekyll
+description: A clean minimal start for a website
 email: 
 baseurl:
 url: "http://electrocute.github.io" # the base hostname & protocol for your site
