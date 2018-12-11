@@ -1,17 +1,17 @@
 # Site settings
-title: Swifter
-description: A clean minimal start for a website
+title: QGIS Ghana User Group
+description: QGIS love from Ghana
 email: 
 baseurl:
-url: "http://electrocute.github.io" # the base hostname & protocol for your site
+url: "http://qgisghana.github.io" # the base hostname & protocol for your site
 #favicon
 favicon: /favicon.png
 
 #feed
 feedburner_username: 
 #twitter
-twitter_username: ericamoncsko
-github_username:  electrocute
+twitter_username: qgisghana
+github_username:  qgisghana
 
 #linkedin
 linkedin_username: 
@@ -35,10 +35,10 @@ disqus_show_comment_count: true
 
 #Can be used for multiple author blogs ! Add name to post For more visit the sample
 authors:
-  erica:
-    display_name: Erica Young
-    #email: 
+  enockseth:
+    display_name: Enock Seth Nyamador
+    email: enock.seth@gmail.com 
     #fb: pranav.tayberrycreative
     #linkedin: pranavrajs
-    twitter: ericamoncsko
-    github: electrocute
+    twitter: enock4seth
+    github: enockseth
