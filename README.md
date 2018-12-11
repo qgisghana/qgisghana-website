@@ -1,7 +1,4 @@
-swift
+QGIS Ghana User Group
 =====
 
-A clean Minimal Blog theme for Jekyll , built with Bootswatch 
-
-
-![ThisIsADemoPhoto](/images/swift.png)
+![ThisIsADemoPhoto](/images/qgisghana.png)
